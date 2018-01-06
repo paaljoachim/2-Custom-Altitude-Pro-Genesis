@@ -1,4 +1,2 @@
 # custom-altitude-pro
-This is my custom version of Genesis child theme Altitude Pro.
-
-I will add more info later.
+This is my custom/enhanced version of Genesis child theme Altitude Pro.
